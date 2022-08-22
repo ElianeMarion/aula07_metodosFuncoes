@@ -1,0 +1,11 @@
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\bin\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.exe
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\bin\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.deps.json
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\bin\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\bin\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.runtimeconfig.dev.json
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\bin\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.dll
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\bin\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.pdb
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\obj\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.csprojAssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\obj\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\obj\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\obj\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.dll
+C:\Users\elian\OneDrive\Documentos\2022\FIAP\Shift\Treinamento\Aula07_MetodosFuncoes\obj\Debug\netcoreapp3.1\Aula07_MetodosFuncoes.pdb
