@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\OneDrive\\Documentos\\2022\\FIAP\\Shift\\Treinamento\\Aula07_MetodosFuncoes\\Aula07_MetodosFuncoes.csproj",
+      "projectUniqueName": "C:\\Users\\elian\\OneDrive\\Documentos\\2022\\FIAP\\Shift\\Aula07_MetodosFuncoes\\Aula07_MetodosFuncoes.csproj",
       "projectName": "Aula07_MetodosFuncoes",
-      "projectPath": "C:\\Users\\elian\\OneDrive\\Documentos\\2022\\FIAP\\Shift\\Treinamento\\Aula07_MetodosFuncoes\\Aula07_MetodosFuncoes.csproj",
+      "projectPath": "C:\\Users\\elian\\OneDrive\\Documentos\\2022\\FIAP\\Shift\\Aula07_MetodosFuncoes\\Aula07_MetodosFuncoes.csproj",
       "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\OneDrive\\Documentos\\2022\\FIAP\\Shift\\Treinamento\\Aula07_MetodosFuncoes\\obj\\",
+      "outputPath": "C:\\Users\\elian\\OneDrive\\Documentos\\2022\\FIAP\\Shift\\Aula07_MetodosFuncoes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
